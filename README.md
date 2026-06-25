@@ -1,4 +1,4 @@
-# Hi, I'm Jonathan 👋
+# Hi, I'm BOGDAN 👋
 
 **Full-stack developer** building web applications, internal automation systems, and AI-powered tools — from WordPress landing pages to production CRM frontends and office infrastructure dashboards.
 
